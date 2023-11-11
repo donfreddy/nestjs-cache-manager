@@ -17,12 +17,12 @@
 
 ## Description
 
-[cache-manager](https://www.npmjs.com/package/cache-manager) module for [Nest](https://github.com/nestjs/nest) originally published as part of the `@nestjs/common` package. This package is a drop-in replacement for the deprecated `CacheModule`.
+[nest-cache-manager2](https://www.npmjs.com/package/cache-manager) module for [Nest](https://github.com/nestjs/nest) originally published as part of the `@nestjs/common` package. This package is a drop-in replacement for the deprecated `CacheModule`.
 
 ## Installation
 
 ```bash
-$ npm i --save @nestjs/cache-manager cache-manager
+$ npm i --save @nestjs/nestjs-cache-manager nest-cache-manager2
 ```
 
 ## Quick Start
@@ -33,11 +33,6 @@ $ npm i --save @nestjs/cache-manager cache-manager
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
