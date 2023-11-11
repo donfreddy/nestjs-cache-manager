@@ -17,7 +17,7 @@
 
 ## Description
 
-[nest-cache-manager2](https://www.npmjs.com/package/cache-manager) module for [Nest](https://github.com/nestjs/nest) originally published as part of the `@nestjs/common` package. This package is a drop-in replacement for the deprecated `CacheModule`.
+[nest-cache-manager2](https://www.npmjs.com/package/nest-cache-manager2) module for [Nest](https://github.com/nestjs/nest) originally published as part of the `@nestjs/common` package. This package is a drop-in replacement for the deprecated `CacheModule`.
 
 ## Installation
 
